@@ -5,6 +5,7 @@ This is a repository of the references I have found out to be reliable and solid
 
 1. [Kent C. Dodds](https://kentcdodds.com/)
 2. [Advanced React Patterns by Kent C Dodds](https://github.com/kentcdodds/advanced-react-patterns)
+3. [React Performance optimizations by web.dev](https://web.dev/react/)
 
 ## Redux
 1. [Fundamentals of Redux Course from Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
